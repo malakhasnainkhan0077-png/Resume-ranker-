@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+*.spec
+build/
+dist/
+resume_ranking_results.csv

@@ -1,0 +1,4 @@
+We are looking for a Python developer with experience in machine learning,
+data analysis, and project management. Strong knowledge of SQL, Flask,
+and REST APIs is required. Experience with machine learning pipelines
+and cloud deployment is a big plus.
